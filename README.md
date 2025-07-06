@@ -124,8 +124,7 @@ We love hearing from our community! Your ideas and feedback help shape KairosEye
 ## 📞 Support & Community
 
 - **🌐 Website**: [kairoseye.com](https://kairoseye.com/)
-- **📧 Support**: [Contact us](https://kairoseye.com/support)
-- **📖 Documentation**: [Quick Start Guide](https://kairoseye.com/quick-start)
+- **📖 Documentation**: [Quick Start Guide](https://kairoseye.com/start/)
 - **❓ FAQ**: [Frequently Asked Questions](https://kairoseye.com/faq)
 
 ## 📄 License
