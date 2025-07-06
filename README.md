@@ -33,7 +33,15 @@
 
 ## 📱 Screenshots
 
-> *Screenshots coming soon - showcasing the beautiful interface and intuitive navigation*
+### 🌤️ Weather & Calendar Interface
+![KairosEye Weather Interface](img/etape7.webp)
+
+*Beautiful weather and calendar interface showing detailed forecast and upcoming events*
+
+### ⌚ Garmin Watch Display
+![KairosEye on Garmin Watch](img/watch2.webp)
+
+*KairosEye running smoothly on Garmin watches with optimized display for small screens*
 
 ## 🚀 Quick Start
 
